@@ -1,0 +1,9 @@
+Class 'boat' routes:
+boat 1 route: (485,409) -> (485,409)
+boat 2 route: (369,418)
+boat 3 route: (557,480) -> (557,480) -> (555,471)
+boat 4 route: (758,459) -> (758,459)
+boat 5 route: (414,537) -> (414,537) -> (413,537)
+boat 6 route: (855,449)
+boat 7 route: (959,591)
+
